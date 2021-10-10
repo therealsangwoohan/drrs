@@ -1,0 +1,12 @@
+REQUEST: 
+Time: 2021/10/08 10:29:49
+date: 2021:10:05
+roomNumber: 111
+requestType: Create Room
+timeSlotsString: 09h-10h,10h-11h
+
+RESPONSE:
+statusOfOperation: success
+
+***
+
